@@ -39,7 +39,7 @@ else:
 
         if finish == "n":
             end = True
-        git test 
+        
 
     
 
